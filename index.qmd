@@ -7,4 +7,5 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Explore the  <a href ="Jupyter-files/E3CI_warm_ott.ipynb">Warm data</a>.
+Check <a href ="E3CI_warm_ott.ipynb"this</a>.
 
